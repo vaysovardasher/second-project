@@ -174,3 +174,30 @@
   color: #777;
   line-height: 1.6;
 }
+.block4 {
+  width: 85%;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 100px 80px;
+  background: white;
+}
+
+.block4-left {
+  max-width: 450px;
+}
+
+.block4-left h2 {
+  font-size: 30px;
+  margin: 20px 0;
+}
+
+.block4-left p {
+  color: #777;
+  line-height: 1.6;
+}
+
+.block4-right img {
+  width: 520px;
+}
