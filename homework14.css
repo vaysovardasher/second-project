@@ -252,7 +252,6 @@
 
 .block6-left {
   max-width: 400px;
-  
 }
 
 .block6-left h2 {
@@ -321,4 +320,43 @@
 .login-text a {
   color: #7b5cff;
   text-decoration: none;
+}
+.block7 {
+  display: flex;
+  justify-content: space-between;
+  padding: 80px;
+  background: #f4f6fb;
+}
+
+.footer-col {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  max-width: 200px;
+}
+
+.footer-logo {
+  width: 40px;
+  margin-bottom: 10px;
+}
+
+.footer-col h4 {
+  margin-bottom: 10px;
+}
+
+.footer-col a {
+  text-decoration: none;
+  color: #555;
+  font-size: 14px;
+}
+
+.footer-col p {
+  color: #777;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.socials {
+  width: 120px;
+  margin-top: 10px;
 }
