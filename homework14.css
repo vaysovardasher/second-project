@@ -147,3 +147,30 @@
   font-size: 14px;
   line-height: 1.5;
 }
+.block3 {
+  width: 85%;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 100px 80px;
+  background: white;
+}
+
+.block3-left img {
+  width: 420px;
+}
+
+.block3-right {
+  max-width: 450px;
+}
+
+.block3-right h2 {
+  font-size: 30px;
+  margin: 20px 0;
+}
+
+.block3-right p {
+  color: #777;
+  line-height: 1.6;
+}
