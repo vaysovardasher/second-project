@@ -98,3 +98,52 @@
 .hero-right img {
   width: 450px;
 }
+.block2 {
+  width: 80%;
+  margin: auto;
+  padding: 100px 80px;
+  text-align: center;
+  background: white;
+}
+
+.block2-top h2 {
+  font-size: 30px;
+  margin: 20px 0;
+}
+
+.block2-text {
+  max-width: 600px;
+  margin: 0 auto 60px auto;
+  color: #777;
+  line-height: 1.6;
+}
+
+.center {
+  display: inline-block;
+}
+
+.features {
+  display: flex;
+  justify-content: space-between;
+  gap: 40px;
+}
+
+.feature {
+  flex: 1;
+}
+
+.feature img {
+  width: 60px;
+  margin-bottom: 20px;
+}
+
+.feature h3 {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.feature p {
+  color: #777;
+  font-size: 14px;
+  line-height: 1.5;
+}
